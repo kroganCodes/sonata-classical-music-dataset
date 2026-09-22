@@ -213,6 +213,8 @@ The package is designed to be transparent and easy to use:
 - extracting it gives the full audio/MIDI structure
 - the CSV manifest provides metadata and split information
 - the reports remain available for documentation and publication references
+- source-specific license and redistribution notes are provided in [LICENSES.md](LICENSES.md)
+- the complete public mirror will be linked here after rights review and hosting are finalized
 
 ---
 
@@ -286,6 +288,8 @@ If you use SONATA in academic work, please cite the dataset as:
    note = {A balanced multimodal classical music dataset combining MAESTRO, ASAP, ADL Piano MIDI, and the Classical MIDI Archive}
 }
 ```
+
+For attribution, redistribution conditions, and the rights status of the underlying source collections, see [LICENSES.md](LICENSES.md).
 
 ---
 
