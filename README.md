@@ -66,6 +66,22 @@ This GitHub repository keeps the documentation, reports, licensing notice, and m
 
 The Hugging Face dataset contains the complete `audio/` and `midi/` folders together with the CSV files, reports, README, and licensing notice.
 
+### Download options
+
+**Full dataset:** Open the Hugging Face link above, click **Files and versions**, and download the files or folders you need. For command-line downloads, install the Hugging Face client and run:
+
+```powershell
+hf download kroganCodes/sonata-classical-music-dataset --repo-type dataset --local-dir SONATA
+```
+
+**GitHub metadata and documentation:** This public GitHub repository is designed for quick review. Use **Code -> Download ZIP** or clone it with:
+
+```powershell
+git clone https://github.com/kroganCodes/sonata-classical-music-dataset.git
+```
+
+The GitHub download contains the README, reports, licensing notice, and CSV manifests. The 84.7 GB `audio/` and `midi/` folders are hosted on Hugging Face because GitHub is not designed for files of that size.
+
 ---
 
 ## 💎 The Four Pillars of Dataset Fusion
