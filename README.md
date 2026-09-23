@@ -52,6 +52,22 @@ This is the kind of dataset that can help move the field from "music classificat
 
 ---
 
+## ⬇️ Download the complete dataset
+
+The complete 84.7 GB SONATA corpus is hosted on Hugging Face, where users can download the full audio and MIDI collection:
+
+**[Download SONATA on Hugging Face](https://huggingface.co/datasets/kroganCodes/sonata-classical-music-dataset)**
+
+This GitHub repository keeps the documentation, reports, licensing notice, and metadata available for review before downloading the large corpus. The CSV manifests can be inspected directly here:
+
+- [balanced_dataset.csv](balanced_dataset.csv)
+- [sonata_dataset.csv](sonata_dataset.csv)
+- [LICENSES.md](LICENSES.md)
+
+The Hugging Face dataset contains the complete `audio/` and `midi/` folders together with the CSV files, reports, README, and licensing notice.
+
+---
+
 ## 💎 The Four Pillars of Dataset Fusion
 
 SONATA unites four complementary sources into one cohesive research resource:
