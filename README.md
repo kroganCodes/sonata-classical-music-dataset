@@ -3,6 +3,8 @@
 # 🎹 SONATA (Augmented MAESTRO)
 ### **S**ymmetrically **O**rchestrated **N**otes and **A**udio for **T**ransformer **A**rchitectures
 
+**SONATA** stands for **Symmetrically Orchestrated Notes and Audio for Transformer Architectures**: a balanced audio-symbolic benchmark built to help models learn musical-era characteristics rather than dataset imbalance.
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Audio Modality](https://img.shields.io/badge/Audio-44.1kHz_16--bit_PCM_WAV-brightgreen.svg)]()
 [![Symbolic Modality](https://img.shields.io/badge/Symbolic-SMF_Type_0%2F1_MIDI-orange.svg)]()
